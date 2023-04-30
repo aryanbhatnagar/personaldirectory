@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/husamhamu/mm_app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Pawandeep-prog/realtime_ob" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Aryan Bhatnagar\AndroidStudioProjects" />
